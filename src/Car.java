@@ -43,7 +43,7 @@ public class Car implements java.io.Serializable
 	/**
 	 * @param man manufacturers name
 	 * @param mod model name
-	 * @param info extra information about the car
+	 * @param info ex
 	 */
 	public Car(String man, String mod, String info)
 	{
